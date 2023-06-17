@@ -1,5 +1,5 @@
 # Project Pertama
-Code untuk kode kedai kopi Nextz
+Code untuk kedai kopi Nextz
 
 ## Bahasa Pemrograman yang Digunakan
 HTML dan CSS
